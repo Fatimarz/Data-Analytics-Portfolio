@@ -2,3 +2,5 @@ This project aims to analyze sales data to identify patterns and trends in reven
 
 Tools and Technologies: Power BI, SQL 
 
+
+
