@@ -2,5 +2,5 @@ This project aims to analyze sales data to identify patterns and trends in reven
 
 Tools and Technologies: Power BI, SQL 
 
-
+![sales analysis dashboadrd] (https://github.com/Fatimarz/Data-Analytics-Portfolio/blob/main/Sales%20Data%20Analysis/sales.jpg?raw=true)
 
