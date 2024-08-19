@@ -2,6 +2,7 @@
 # Bike-Sharing Shop Data Analysis
 
 
+![image](https://github.com/user-attachments/assets/bd2056c2-4645-4fa1-9ecd-0d5f16fcf51c)
 
 
 ## Problem Statement
