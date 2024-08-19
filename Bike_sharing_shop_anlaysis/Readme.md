@@ -42,26 +42,13 @@ The seasonal revenue analysis reveals that Season 3 generates the highest revenu
 Approximately 80% of riders are registered users, while the remaining 20% are casual riders. This distribution highlights a strong base of loyal, engaged customers who are more likely to contribute to consistent revenue. Casual riders represent a smaller yet significant portion, potentially indicating opportunities for conversion to registered status.
 
 ## Recommendations and Next Steps:
-**Hourly Revenue Analysis**
 
-*Focus on Peak Hours*
+* The high revenue during Evening Hours suggests that these hours are critical for the shop's profitability. It would be advantageous to optimize operations during these times, such as ensuring bike availability, offering quick checkout processes, and possibly running promotions to further capitalize on this high-demand period.
 
-The high revenue during Evening Hours suggests that these hours are critical for the shop's profitability. It would be advantageous to optimize operations during these times, such as ensuring bike availability, offering quick checkout processes, and possibly running promotions to further capitalize on this high-demand period.
+* The steep decline in revenue after Evening hours presents an opportunity to either scale back operations to save costs or introduce strategies to boost nighttime rentals. Considerations might include offering late-night discounts, targeting specific customer groups like night-shift workers, or even adjusting operating hours to reflect demand.
 
-*Evening and Night Strategy:*
+* To maximize revenue, focus on strategies that leverage the strengths of Season 3 and 2, such as targeted promotions or increased inventory. For Season 1, consider implementing initiatives to boost customer engagement and demand, such as special offers or marketing campaigns, to enhance performance during this lower revenue period.
 
-The steep decline in revenue after Evening hours presents an opportunity to either scale back operations to save costs or introduce strategies to boost nighttime rentals. Considerations might include offering late-night discounts, targeting specific customer groups like night-shift workers, or even adjusting operating hours to reflect demand.
-
-**Revenue and Profit Trend Analysis**
-
-To capitalize on peak revenue periods, consider enhancing marketing and operational strategies during the first half of the year to maximize returns. Post-peak, focus on optimizing cost efficiencies and exploring new revenue streams to mitigate the decline. Continuous monitoring of seasonal trends and profit margins will help maintain profitability and identify opportunities for further growth.
-
-**Seasonal Analysis**
-
-To maximize revenue, focus on strategies that leverage the strengths of Season 3 and 2, such as targeted promotions or increased inventory. For Season 1, consider implementing initiatives to boost customer engagement and demand, such as special offers or marketing campaigns, to enhance performance during this lower revenue period.
-
-**Riders Demographics**
-
-Focus on enhancing engagement and retention strategies for registered riders to maintain their loyalty and maximize their lifetime value. Simultaneously, develop targeted marketing campaigns and incentives to convert casual riders into registered users, thereby expanding your customer base and increasing overall revenue stability.
+* Focus on enhancing engagement and retention strategies for registered riders to maintain their loyalty and maximize their lifetime value. Simultaneously, develop targeted marketing campaigns and incentives to convert casual riders into registered users, thereby expanding your customer base and increasing overall revenue stability.
 
 
