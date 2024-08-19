@@ -24,20 +24,20 @@ The Bike-Sharing shop wants to gain comprehensive understanding of its financial
 * Data visualization and dashboard creation.
 
 ## Summary of Insights
-**Hourly Revenue Analysis:** 
+* **Hourly Revenue Analysis:** 
 The analysis of hourly revenue shows that the bike-sharing shop experiences the highest revenue during the evening hours, likely due to evening rush hour, when customers are more inclined to rent bikes for commuting home or other evening activities.
 
 However, there is a noticeable decline in later hours, likely due to reduced commuting needs and the general winding down of daily activities.
 
-**Revenue and Profit Trend Analysis:** The trend line for average revenue shows increase from January, peaking in mid-year before declining thereafter. This pattern indicates strong performance during mid-year, likely influenced by seasonal factors.
+* **Revenue and Profit Trend Analysis:** The trend line for average revenue shows increase from January, peaking in mid-year before declining thereafter. This pattern indicates strong performance during mid-year, likely influenced by seasonal factors.
 
 The profit line mirrors the revenue trend, suggesting that profit fluctuations are directly tied to revenue changes. Notably, the profit margin remains constant at 0.45 throughout the year, indicating stable cost management relative to revenue.
 
-**Seasonal Revenue Analysis:**
+* **Seasonal Revenue Analysis:**
 
 The seasonal revenue analysis reveals that Season 3 generates the highest revenue, significantly outperforming other periods.Season 2 and also shows robust revenue figures, although not as high. In contrast, Season 1 records the lowest revenue, indicating a potential period of reduced customer demand or market activity.
 
-**Rider Demographics Analysis**
+* **Rider Demographics Analysis**
 
 Approximately 80% of riders are registered users, while the remaining 20% are casual riders. This distribution highlights a strong base of loyal, engaged customers who are more likely to contribute to consistent revenue. Casual riders represent a smaller yet significant portion, potentially indicating opportunities for conversion to registered status.
 
