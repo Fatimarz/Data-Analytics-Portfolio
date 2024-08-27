@@ -8,6 +8,9 @@ Welcome to my Data Analytics portfolio! This repository showcases a collection o
 ### Key Features:
 
 **Data:** Analyzed extensive bike-sharing data, including peak hours, usage patterns, and customer demographics.
+
 **Analysis:** Performed sql queries to identify key trends and patterns.
+
 **Visualizations:** Created interactive dashboards and visualizations to present findings and support data-driven decision-making.
+
 **Tools & Technologies:** SQL Server, Power BI
