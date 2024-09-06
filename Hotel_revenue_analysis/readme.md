@@ -46,3 +46,6 @@ Implement Dynamic Pricing: To maximize revenue, especially during peak periods s
 Improve Customer Satisfaction: The low average rating suggests a gap in service quality. A deeper analysis of customer feedback, including reviews and comments on social media, should be conducted to identify specific areas for improvement. Addressing these concerns will help enhance guest experiences and boost ratings. 
 
 ## Demo
+
+![image](https://github.com/user-attachments/assets/146b823b-1372-4065-83a1-fbe8695e829b)
+
